@@ -1,0 +1,2 @@
+aws_poc\AWSStaticCredentialsProvider.class
+aws_poc\OpenIdTokenCognito.class
